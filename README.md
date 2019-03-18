@@ -1,5 +1,5 @@
 # UmbrellaHMM
-An implementation of the umbrella world Hidden Markov Model found in the Russel &amp; Norvig book, with direct samplign and the forward-backward algorithm.
+An implementation of the umbrella world Hidden Markov Model found in the Russel &amp; Norvig book, with direct sampling and the forward-backward algorithm.
 
 ## Requirements
 NumPy needs to be installed. On any system with `pip` installed:
